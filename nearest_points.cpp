@@ -1,4 +1,6 @@
-#include<bits/stdc++.h>
+#include<iostream>
+#include <algorithm>
+#include <cstdlib>
 using namespace std;
 typedef long long ll;
 const int MAXN = 100009;
